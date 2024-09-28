@@ -1,2 +1,3 @@
-# assignment-base-repo
-Base repo for classroom assignments.
+# Assignment Repository
+
+This is template base repository for classroom assignments.
